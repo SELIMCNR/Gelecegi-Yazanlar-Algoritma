@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Turkcell_Dosya_İslemleri/1.0.0": {
+        "runtime": {
+          "Turkcell_Dosya_İslemleri.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Turkcell_Dosya_İslemleri/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

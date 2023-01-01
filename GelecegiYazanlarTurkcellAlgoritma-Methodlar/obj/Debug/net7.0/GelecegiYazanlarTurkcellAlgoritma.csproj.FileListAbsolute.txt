@@ -1,0 +1,15 @@
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Algoritma\Turkcell-Algoritma\GelecegiYazanlarTurkcellAlgoritma\bin\Debug\net7.0\GelecegiYazanlarTurkcellAlgoritma.exe
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Algoritma\Turkcell-Algoritma\GelecegiYazanlarTurkcellAlgoritma\bin\Debug\net7.0\GelecegiYazanlarTurkcellAlgoritma.deps.json
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Algoritma\Turkcell-Algoritma\GelecegiYazanlarTurkcellAlgoritma\bin\Debug\net7.0\GelecegiYazanlarTurkcellAlgoritma.runtimeconfig.json
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Algoritma\Turkcell-Algoritma\GelecegiYazanlarTurkcellAlgoritma\bin\Debug\net7.0\GelecegiYazanlarTurkcellAlgoritma.dll
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Algoritma\Turkcell-Algoritma\GelecegiYazanlarTurkcellAlgoritma\bin\Debug\net7.0\GelecegiYazanlarTurkcellAlgoritma.pdb
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Algoritma\Turkcell-Algoritma\GelecegiYazanlarTurkcellAlgoritma\obj\Debug\net7.0\GelecegiYazanlarTurkcellAlgoritma.csproj.AssemblyReference.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Algoritma\Turkcell-Algoritma\GelecegiYazanlarTurkcellAlgoritma\obj\Debug\net7.0\GelecegiYazanlarTurkcellAlgoritma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Algoritma\Turkcell-Algoritma\GelecegiYazanlarTurkcellAlgoritma\obj\Debug\net7.0\GelecegiYazanlarTurkcellAlgoritma.AssemblyInfoInputs.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Algoritma\Turkcell-Algoritma\GelecegiYazanlarTurkcellAlgoritma\obj\Debug\net7.0\GelecegiYazanlarTurkcellAlgoritma.AssemblyInfo.cs
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Algoritma\Turkcell-Algoritma\GelecegiYazanlarTurkcellAlgoritma\obj\Debug\net7.0\GelecegiYazanlarTurkcellAlgoritma.csproj.CoreCompileInputs.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Algoritma\Turkcell-Algoritma\GelecegiYazanlarTurkcellAlgoritma\obj\Debug\net7.0\GelecegiYazanlarTurkcellAlgoritma.dll
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Algoritma\Turkcell-Algoritma\GelecegiYazanlarTurkcellAlgoritma\obj\Debug\net7.0\refint\GelecegiYazanlarTurkcellAlgoritma.dll
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Algoritma\Turkcell-Algoritma\GelecegiYazanlarTurkcellAlgoritma\obj\Debug\net7.0\GelecegiYazanlarTurkcellAlgoritma.pdb
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Algoritma\Turkcell-Algoritma\GelecegiYazanlarTurkcellAlgoritma\obj\Debug\net7.0\GelecegiYazanlarTurkcellAlgoritma.genruntimeconfig.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Algoritma\Turkcell-Algoritma\GelecegiYazanlarTurkcellAlgoritma\obj\Debug\net7.0\ref\GelecegiYazanlarTurkcellAlgoritma.dll

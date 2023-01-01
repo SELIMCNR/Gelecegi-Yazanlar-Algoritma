@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sınıflar_Turkcell", "Sınıflar_Turkcell.csproj", "{12CCE4B9-0599-4600-9F9D-4AB0EAD8CABF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12CCE4B9-0599-4600-9F9D-4AB0EAD8CABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12CCE4B9-0599-4600-9F9D-4AB0EAD8CABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12CCE4B9-0599-4600-9F9D-4AB0EAD8CABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12CCE4B9-0599-4600-9F9D-4AB0EAD8CABF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2073B69-EE13-412D-8E8D-429EEF0AFE92}
+	EndGlobalSection
+EndGlobal
